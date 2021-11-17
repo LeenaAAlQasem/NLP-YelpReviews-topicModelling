@@ -5,7 +5,7 @@ By Leena AlQasem | Leenabdulh@gmail.com
 ## Introduction!
 Heading to the fourth project in the T5 Bootcamp, which is called Sentiment Analysis of the Yelp Reviews using both NLP and Classification. Nowadays, businesses make decision-based on customer reviews for improvements. Therefore, this project sheds light on the Yelp dataset using NLP and choosing the best ML topic modelling to classify it.
 
-![Yelp_Logo svg](https://user-images.githubusercontent.com/57495692/142263118-d159726d-9461-4e20-a3bc-951a6b4022a6.png)
+<center> ![Yelp_Logo svg](https://user-images.githubusercontent.com/57495692/142263118-d159726d-9461-4e20-a3bc-951a6b4022a6.png) </center>
 
 
 ### Company information:
