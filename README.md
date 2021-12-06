@@ -26,3 +26,8 @@ The Yelp dataset was obtained from Kaggle as a public source [Here](https://www.
 ## Tools
 - Technologies: Jupyter Notebook, Python.
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and NLTK.
+
+## Contributions:
+
+[Leena AlQasem](https://github.com/LeenaAAlQasem) <br>
+[Randa Almohammadi](https://github.com/rmalmoha)
