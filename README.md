@@ -30,4 +30,5 @@ The Yelp dataset was obtained from Kaggle as a public source [Here](https://www.
 ## Contributions:
 
 [Leena AlQasem](https://github.com/LeenaAAlQasem) <br>
-[Banan Alhethlool](https://github.com/BananAlhethlool)
+[Randa Almohammadi](https://github.com/rmalmoha)
+
